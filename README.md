@@ -4,14 +4,14 @@
 
 <div align="center">
     <img width="80%" src="./assets/banner.png" /><br><br>
-    <a href="#%E2%AC%87%EF%B8%8F%20Descargas"><img src="https://img.shields.io/github/downloads/tivp/PTD-Launcher/total?style=for-the-badge&label=Descargas&labelColor=0c0d10&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMSIgaGVpZ2h0PSIyMSIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49ImFyY3MiPgogIDxwYXRoIGQ9Ik0zIDE1djRjMCAxLjEuOSAyIDIgMmgxNGEyIDIgMCAwIDAgMi0ydi00TTE3IDlsLTUgNS01LTVNMTIgMTIuOFYyLjUiPjwvcGF0aD4KPC9zdmc+Cg==" /></a>
-    <a href="#%EF%B8%8F-licencia"><img src="https://img.shields.io/github/license/tivp/PTD-Launcher?style=for-the-badge&label=Licencia&labelColor=0c0d10&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSIjRkZGIj48cGF0aCBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZD0ibTMgNiAzIDFtMCAwLTMgOWE1LjAwMiA1LjAwMiAwIDAgMCA2LjAwMSAwTTYgN2wzIDlNNiA3bDYtMm02IDIgMy0xbS0zIDEtMyA5YTUuMDAyIDUuMDAyIDAgMCAwIDYuMDAxIDBNMTggN2wzIDltLTMtOS02LTJtMC0ydjJtMCAxNlY1bTAgMTZIOW0zIDBoMyIvPjwvc3ZnPg==" /></a>
+    <a href="#-descargas"><img src="https://img.shields.io/github/downloads/tivp/PTD-Launcher/total?style=for-the-badge&label=Descargas&labelColor=0c0d10&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMSIgaGVpZ2h0PSIyMSIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49ImFyY3MiPgogIDxwYXRoIGQ9Ik0zIDE1djRjMCAxLjEuOSAyIDIgMmgxNGEyIDIgMCAwIDAgMi0ydi00TTE3IDlsLTUgNS01LTVNMTIgMTIuOFYyLjUiPjwvcGF0aD4KPC9zdmc+Cg==" /></a>
+    <a href="#-licencia"><img src="https://img.shields.io/github/license/tivp/PTD-Launcher?style=for-the-badge&label=Licencia&labelColor=0c0d10&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSIjRkZGIj48cGF0aCBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZD0ibTMgNiAzIDFtMCAwLTMgOWE1LjAwMiA1LjAwMiAwIDAgMCA2LjAwMSAwTTYgN2wzIDlNNiA3bDYtMm02IDIgMy0xbS0zIDEtMyA5YTUuMDAyIDUuMDAyIDAgMCAwIDYuMDAxIDBNMTggN2wzIDltLTMtOS02LTJtMC0ydjJtMCAxNlY1bTAgMTZIOW0zIDBoMyIvPjwvc3ZnPg==" /></a>
     <a href="#"><img alt="python" src="https://img.shields.io/badge/Python-%3E%3D3.11-3?style=for-the-badge&label=Python&labelColor=0c0d10&color=blue&logo=python&logoColor=00AEF0" /></a><br><br>
 </div>
 
 PTD Launcher nació como respuesta a las limitaciones y el bajo rendimiento de la emulación en navegadores. Con este launcher, disfrutarás de una interfaz de usuario exquisita y podrás jugar dos o más títulos simultáneamente, permitiéndote farmear en uno mientras avanzas en la historia de otro, optimizando al máximo tu experiencia de juego.
 
-## ℹ️ Características
+## ℹ Características
 
 ### Lo que puedes hacer
 - ✅ Jugar dos partidas simultáneamente sin las restricciones del navegador.
@@ -51,10 +51,10 @@ Si te gusta mi trabajo y quieres apoyarme con su desarrollo continuo, tu apoyo e
 
 ### 𝑮𝒓𝒂𝒄𝒊𝒂𝒔 𝑷𝒐𝒓 𝒕𝒖 𝑨𝒑𝒐𝒓𝒕𝒆 💖<br><br>
 
-## ❤️ **Créditos y Agradecimientos**
-- [Açelya Kılıç](https://github.com/acelyakilic/) - Creadora del proyecto que preserva el juego *Pokémon Tower Defense* en línea a través de [ptd.onl](https://ptd.onl) y [ptd.ooo](https://ptd.ooo). Además de contribuir al desarrollo de este proyecto mediante un *fork* y haber desarrollado una versión mejorada llamada [PTDLauncher](https://github.com/acelyakilic/PTDLauncher).
+## ❤ **Créditos y Agradecimientos**
+- [Açelya Kılıç](https://github.com/acelyakilic/) - Creadora del proyecto que preserva el juego *Pokémon Tower Defense* en línea a través de [ptd.onl](https://ptd.onl) y [ptd.ooo](https://ptd.ooo). (Contribuyo al desarrollo de este proyecto mediante un *fork* y en haber desarrollado una versión mejorada llamada [PTDLauncher](https://github.com/acelyakilic/PTDLauncher)).
 
-## ⚖️ Licencia
+## ⚖ Licencia
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 PTD Launcher es software libre: puedes usarlo, estudiarlo, compartirlo y mejorarlo a tu gusto. En particular, puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General GNU 3.0. Consulta la licencia [aquí](./LICENSE) para más detalles.
