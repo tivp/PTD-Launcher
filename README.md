@@ -35,7 +35,7 @@ Selecciona uno de los botones de aquí abajo para descargar o dirígete [aquí](
 
 ## 📖 Tutoriales  
 
-<img align="right" width="250" src="./assets/tutorial_2.png"><br><img align="right" width="250" src="./assets/tutorial_1.png">
+<img align="right" width="250" src="./assets/tutorial_2.png"><br><br><img align="right" width="250" src="./assets/tutorial_1.png">
 
 ### ❓ Cómo mejorar el rendimiento del proyector de Adobe Flash
 
