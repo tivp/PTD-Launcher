@@ -41,9 +41,7 @@ Selecciona uno de los botones de aquí abajo para descargar o dirígete [aquí](
 
 1. Haz clic ➡️ derecho sobre tu juego favorito.
 
-<img align="right" width="150" src="./assets/tutorial_2.png">
-
-3. Selecciona `Configuración...`.
+3. Selecciona `Configuración...`. <img align="right" width="150" src="./assets/tutorial_2.png">
 
 4. Desmarca la opción `Activar aceleración de hardware`.
 
