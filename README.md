@@ -36,6 +36,7 @@ Selecciona uno de los botones de aquí abajo para descargar o dirígete [aquí](
 ## 📖 Tutoriales  
 
 <img align="right" width="150" src="./assets/tutorial_2.png">  
+<img align="right" width="150" src="./assets/tutorial_1.png">
 
 ### ❓ Cómo mejorar el rendimiento del proyector de Adobe Flash
 
@@ -46,8 +47,6 @@ Selecciona uno de los botones de aquí abajo para descargar o dirígete [aquí](
 4. Desmarca la opción `Activar aceleración de hardware`.
 
 5. Haz clic en `Cerrar` para guardar los cambios.
-
-<img align="right" width="150" src="./assets/tutorial_1.png">  
 
 ## ☕ Patrocíname un Café  
 Si te gusta mi trabajo y quieres apoyarme con su desarrollo continuo, tu apoyo es bienvenido.
