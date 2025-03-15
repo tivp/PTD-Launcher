@@ -25,7 +25,7 @@ PTD Launcher nació como respuesta a las limitaciones y el bajo rendimiento de l
 ## 🖼️ Comparaciónes
 | Usando `Chrome` | Usando `PTD Launcher` |
 | --- | --- |
-| <img align="center" src="./assets/chrome.gif" width="330" /> | <img align="center" src="./assets/ptd_launcher.gif" width="330" /> |
+| <img src="./assets/chrome.gif" width="330" /> | <img src="./assets/ptd_launcher.gif" width="330" /> |
 
 ## ⬇️ Descargas
 Selecciona uno de los botones de aquí abajo para descargar o dirígete [aquí](https://github.com/tivp/PTD-Launcher/releases) para ver todas las versiones.
@@ -35,17 +35,9 @@ Selecciona uno de los botones de aquí abajo para descargar o dirígete [aquí](
 
 ## 📖 Tutoriales  
 
-<img align="right" width="250" src="./assets/tutorial_2.png"><br><br><img align="right" width="250" src="./assets/tutorial_1.png">
-
-### ❓ Cómo mejorar el rendimiento del proyector de Adobe Flash
-
-1. Haz clic ➡️ derecho sobre tu juego favorito.
-
-3. Selecciona `Configuración...`.
-
-4. Desmarca la opción `Activar aceleración de hardware`.
-
-5. Haz clic en `Cerrar` para guardar los cambios.
+| ❓ Cómo mejorar el rendimiento del proyector de Adobe Flash | 📷 Imágenes |
+| --- | --- |
+| **1.** Haz clic ➡️ derecho sobre tu juego favorito.<br><br>**2.** Selecciona `Configuración...`.<br><br>**3.** Desmarca la opción `Activar aceleración de hardware`.<br><br>**4.** Haz clic en `Cerrar` para guardar los cambios. | ‎ <br><img align="right" width="300" src="./assets/tutorial_1.png"><br>‎ <br><img align="right" width="300" src="./assets/tutorial_2.png"><br>‎ <br> |
 
 ## ☕ Patrocíname un Café  
 Si te gusta mi trabajo y quieres apoyarme con su desarrollo continuo, tu apoyo es bienvenido.
