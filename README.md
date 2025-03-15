@@ -40,14 +40,14 @@ Selecciona uno de los botones de aquí abajo para descargar o dirígete [aquí](
 ### ❓ Cómo mejorar el rendimiento del proyector de Adobe Flash
 
 1. Haz clic ➡️ derecho sobre tu juego favorito.
- 
+
 2. Selecciona `Configuración...`.
 
-<img align="right" width="300" src="./assets/tutorial_1.png"> 
-
 4. Desmarca la opción `Activar aceleración de hardware`.
-  
-5. Haz clic en `Cerrar` para guardar los cambios.  
+
+5. Haz clic en `Cerrar` para guardar los cambios.
+
+<img align="right" width="300" src="./assets/tutorial_1.png">  
 
 ## ☕ Patrocíname un Café  
 Si te gusta mi trabajo y quieres apoyarme con su desarrollo continuo, tu apoyo es bienvenido.
